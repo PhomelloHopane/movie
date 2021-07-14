@@ -1,0 +1,29 @@
+<table style="width:100%">
+  <tr>
+    <th>movietitle</th>
+    <th>year</th>
+    <th>rating</th>
+  </tr>
+  <tr>
+    <td>avatar</td>
+    <td>2014</td>
+    <td>84%</td>
+  </tr>
+  <tr>
+    <td>starwars</td>
+    <td>1998</td>
+    <td>94%</td>
+  </tr>
+  <tr>
+   <td>avengers</td>
+    <td>2018</td>
+    <td>78%</td>
+  </tr>
+  <tr>
+    <td>jurassicworld</td>
+    <td>2012</td>
+    <td>695</td>
+  </tr>
+</table>
+  </tr>
+</table>
